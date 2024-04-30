@@ -1,0 +1,15 @@
+﻿  Game.cpp
+D:\session4\game\ex\tp1\InvasionOfMars - ProjetDeDépart\InvasionOfMars\InvasionOfMars\Game.cpp(25,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+D:\session4\game\ex\tp1\InvasionOfMars - ProjetDeDépart\InvasionOfMars\InvasionOfMars\Game.cpp(52,37): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+D:\session4\game\ex\tp1\InvasionOfMars - ProjetDeDépart\InvasionOfMars\InvasionOfMars\Game.cpp(52,21): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+D:\session4\game\ex\tp1\InvasionOfMars - ProjetDeDépart\InvasionOfMars\InvasionOfMars\Game.cpp(73,48): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+D:\session4\game\ex\tp1\InvasionOfMars - ProjetDeDépart\InvasionOfMars\InvasionOfMars\Game.cpp(244,22): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+D:\session4\game\ex\tp1\InvasionOfMars - ProjetDeDépart\InvasionOfMars\InvasionOfMars\Game.cpp(246,22): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+D:\session4\game\ex\tp1\InvasionOfMars - ProjetDeDépart\InvasionOfMars\InvasionOfMars\Game.cpp(249,46): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+D:\session4\game\ex\tp1\InvasionOfMars - ProjetDeDépart\InvasionOfMars\InvasionOfMars\Game.cpp(251,46): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+D:\session4\game\ex\tp1\InvasionOfMars - ProjetDeDépart\InvasionOfMars\InvasionOfMars\Game.cpp(336,51): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  Hud.cpp
+  Main.cpp
+  Génération de code en cours...
+  InvasionOfMars.vcxproj -> D:\session4\game\ex\tp1\InvasionOfMars - ProjetDeDépart\InvasionOfMars\Debug\InvasionOfMars.exe
+  0 fichier(s) copié(s)

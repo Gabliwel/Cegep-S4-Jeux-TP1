@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources\Fonts">
+      <UniqueIdentifier>{ceb8b0fb-368e-47a2-b8ab-f1eb51a76346}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers de ressources\Sounds">
+      <UniqueIdentifier>{dfcfa661-be27-4448-8d5e-a6c3f3839d87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers de ressources\Sprites">
+      <UniqueIdentifier>{7e0913e9-f9e0-4aca-9a12-a29101d02f7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers de ressources\Sounds\Characters">
+      <UniqueIdentifier>{c1d7a5c5-0672-4ac3-9f67-199fc20e2824}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers de ressources\Sounds\Music">
+      <UniqueIdentifier>{90a41d94-ca78-4603-aba2-2d5c0366d07f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers de ressources\Sounds\SpaceShots">
+      <UniqueIdentifier>{57f332f6-ee3d-4dc4-be24-dbac9930da0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers de ressources\Sprites\Backgrounds">
+      <UniqueIdentifier>{163d1dc9-9afd-42fb-9338-15f53ae44ef8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers de ressources\Sprites\Logos">
+      <UniqueIdentifier>{6d8803b7-e163-4d4e-a414-2817e7469081}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers de ressources\Sprites\Projectiles">
+      <UniqueIdentifier>{a0ecfc62-3b22-4216-9916-c9c8c77f367b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers de ressources\Sprites\SpacemanAndAliens">
+      <UniqueIdentifier>{4fc06d2e-24d9-430c-804c-9876adcc7f5a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionCircle.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ContentManager.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Hud.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Alien.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Bonus.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Gun.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionCircle.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Constants.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="ContentManager.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Inputs.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Hud.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Alien.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Bonus.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Gun.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Ressources\Fonts\segoepr.ttf">
+      <Filter>Fichiers de ressources\Fonts</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Ressources\Sounds\Characters\Horde.ogg">
+      <Filter>Fichiers de ressources\Sounds\Characters</Filter>
+    </None>
+    <None Include="Ressources\Sounds\Characters\PlayerDeath.ogg">
+      <Filter>Fichiers de ressources\Sounds\Characters</Filter>
+    </None>
+    <None Include="Ressources\Sounds\Music\Carpenter_brut_remorse.ogg">
+      <Filter>Fichiers de ressources\Sounds\Music</Filter>
+    </None>
+    <None Include="Ressources\Sounds\Music\Deadmau5_welk_then.ogg">
+      <Filter>Fichiers de ressources\Sounds\Music</Filter>
+    </None>
+    <None Include="Ressources\Sounds\Music\Mega_drive_narc.ogg">
+      <Filter>Fichiers de ressources\Sounds\Music</Filter>
+    </None>
+    <None Include="Ressources\Sounds\SpaceShots\Shot01.ogg">
+      <Filter>Fichiers de ressources\Sounds\SpaceShots</Filter>
+    </None>
+    <None Include="Ressources\Sounds\SpaceShots\Shot02.ogg">
+      <Filter>Fichiers de ressources\Sounds\SpaceShots</Filter>
+    </None>
+    <None Include="Ressources\Sounds\SpaceShots\ToggleSound.ogg">
+      <Filter>Fichiers de ressources\Sounds\SpaceShots</Filter>
+    </None>
+    <None Include="Ressources\Sounds\Characters\AlienDeath.ogg">
+      <Filter>Fichiers de ressources\Sounds\Characters</Filter>
+    </None>
+    <None Include="Ressources\Sounds\SpaceShots\Explosion.ogg">
+      <Filter>Fichiers de ressources\Sounds\SpaceShots</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Ressources\Sprites\SpacemanAndAliens\Alien1.png">
+      <Filter>Fichiers de ressources\Sprites\SpacemanAndAliens</Filter>
+    </Image>
+    <Image Include="Ressources\Sprites\SpacemanAndAliens\Alien2.png">
+      <Filter>Fichiers de ressources\Sprites\SpacemanAndAliens</Filter>
+    </Image>
+    <Image Include="Ressources\Sprites\SpacemanAndAliens\Alien3.png">
+      <Filter>Fichiers de ressources\Sprites\SpacemanAndAliens</Filter>
+    </Image>
+    <Image Include="Ressources\Sprites\SpacemanAndAliens\Spaceman.png">
+      <Filter>Fichiers de ressources\Sprites\SpacemanAndAliens</Filter>
+    </Image>
+    <Image Include="Ressources\Sprites\Backgrounds\MoonReflectiveBackground.png">
+      <Filter>Fichiers de ressources\Sprites\Backgrounds</Filter>
+    </Image>
+    <Image Include="Ressources\Sprites\Logos\BoostLogo.png">
+      <Filter>Fichiers de ressources\Sprites\Logos</Filter>
+    </Image>
+    <Image Include="Ressources\Sprites\Projectiles\Bullet.png">
+      <Filter>Fichiers de ressources\Sprites\Projectiles</Filter>
+    </Image>
+    <Image Include="Ressources\Sprites\Projectiles\Blast.png">
+      <Filter>Fichiers de ressources\Sprites\Projectiles</Filter>
+    </Image>
+    <Image Include="Ressources\Sprites\Logos\NukeLogo.png">
+      <Filter>Fichiers de ressources\Sprites\Logos</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
